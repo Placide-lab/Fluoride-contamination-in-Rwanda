@@ -1,1 +1,1 @@
-Random Forest to predict residual aluminium (Al) in water
+Random Forest regressor to predict residual aluminium (Al) in water
